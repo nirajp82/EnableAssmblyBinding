@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <SignAssembly>false</SignAssembly>
+    <DelaySign>false</DelaySign>
+    <AssemblyOriginatorKeyFile>MyLibraryKey.snk</AssemblyOriginatorKeyFile>
+    <AssemblyVersion>5.9.0.0</AssemblyVersion>
+    <FileVersion>5.9.0.0</FileVersion>
+  </PropertyGroup>
+
+</Project>

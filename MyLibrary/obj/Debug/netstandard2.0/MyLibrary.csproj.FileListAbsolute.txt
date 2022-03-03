@@ -1,0 +1,9 @@
+C:\Users\niraj.patel\source\repos\SideBySideExecution\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.deps.json
+C:\Users\niraj.patel\source\repos\SideBySideExecution\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.dll
+C:\Users\niraj.patel\source\repos\SideBySideExecution\MyLibrary\bin\Debug\netstandard2.0\MyLibrary.pdb
+C:\Users\niraj.patel\source\repos\SideBySideExecution\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niraj.patel\source\repos\SideBySideExecution\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\niraj.patel\source\repos\SideBySideExecution\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.AssemblyInfo.cs
+C:\Users\niraj.patel\source\repos\SideBySideExecution\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\niraj.patel\source\repos\SideBySideExecution\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.dll
+C:\Users\niraj.patel\source\repos\SideBySideExecution\MyLibrary\obj\Debug\netstandard2.0\MyLibrary.pdb
