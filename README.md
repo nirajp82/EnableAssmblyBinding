@@ -24,3 +24,4 @@ Binding Redirect to Specific Location in config file.
   <codeBase version="5.9.0.0" href="bin\ServiceStack.Standard.5.9.0\ServiceStack.Interfaces.dll" />
 </dependentAssembly>
 ```
+https://docs.microsoft.com/en-us/dotnet/framework/deployment/how-the-runtime-locates-assemblies
